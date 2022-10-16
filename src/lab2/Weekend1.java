@@ -1,4 +1,4 @@
-package Lab_2;
+package lab2;
 
 import java.time.LocalDateTime;
 import java.time.format.TextStyle;

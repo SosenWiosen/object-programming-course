@@ -1,4 +1,4 @@
-package Lab_3;
+package lab3;
 
 public class FloatArithmeticMean {
     public static void main(String[] args) {
